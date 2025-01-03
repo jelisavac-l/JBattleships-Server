@@ -1,5 +1,5 @@
 public class Test {
     public static void main(String[] args) {
-        System.out.println("MOLIM TE RADI :((((");
+        System.out.println("MOLIM TE RADI :(((((");
     }
 }
